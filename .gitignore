@@ -23,3 +23,5 @@ dist-ssr
 *.sln
 *.sw?
 .learnings
+# Local workspace (ignored)
+work/
